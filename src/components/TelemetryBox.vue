@@ -2,7 +2,7 @@
 	<div class="box">
 		<div class="bar">
 			<div class="left">
-				<h2>TELEMETRY BOX</h2>
+				<h2>TELEMETRY CONTROL</h2>
 			</div>
 
 			<div class="right">
